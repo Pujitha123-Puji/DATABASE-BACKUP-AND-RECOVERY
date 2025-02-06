@@ -30,3 +30,12 @@ For example, you can execute a SELECT statement to retrieve data from a table or
 
 **Conclusion**:
 Performing a database backup and recovery is a critical process that ensures the safety and integrity of your data. By following the steps outlined in this description, you can create a backup of your database and restore it in case of data loss or corruption. Remember to verify the data after recovery to ensure that it has been restored correctly. Regular backups and recoveries can help prevent data loss and ensure business continuity.
+
+**OUTPUT**:
+![Image](https://github.com/user-attachments/assets/8de35acd-4286-47a7-875c-b4474e78a295)
+
+![Image](https://github.com/user-attachments/assets/1ccb2228-827b-42ed-b98c-dab17012c0a3)
+
+![Image](https://github.com/user-attachments/assets/1840a51f-84f0-4358-9dec-5cc12f3e4487)
+
+![Image](https://github.com/user-attachments/assets/411f2d56-d41a-4dba-a745-7ba5853ffc93)
